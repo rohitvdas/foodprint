@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">Foodprint</string>
+    <string name="vendor_prompt">Select the vendor from whom you purchased.</string>
+
+    <string-array name="vendor_array">
+        <item>McDonald\'s</item>
+        <item>Tandoor</item>
+        <item>Farmstead</item>
+    </string-array>
+
+    <string-array name="mcDs_menu">
+        <item>Hamburger</item>
+        <item>Cheeseburger</item>
+        <item>Chicken Nuggets</item>
+        <item>Salad</item>
+    </string-array>
+
+    <string-array name="tandoor_menu">
+        <item>Chicken Curry</item>
+        <item>Curry Lamb</item>
+        <item>Curry Tofu</item>
+        <item>Veggies</item>
+        <item>Rice</item>
+    </string-array>
+
+    <string-array name="farmstead_menu">
+        <item>Chicken Breast</item>
+        <item>Roast Beef</item>
+        <item>Veggies</item>
+    </string-array>
+
+</resources>

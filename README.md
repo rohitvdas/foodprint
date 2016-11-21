@@ -1,1 +1,1 @@
-An Android app that gives you immediate feedback about how your food choices impact the environment.  Developed for HackDuke 2016.
+An Android app that gives you immediate feedback about how your food choices impact the environment.  Developed by Peter Ciporin, Rohit Das, Malcolm McDonald and Randolph Frank for HackDuke 2016. [Project link.](https://devpost.com/software/foodprint)
